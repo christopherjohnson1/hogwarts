@@ -1,5 +1,4 @@
 import utils from '../helpers/utils';
-
 import './navbar/navbar.scss';
 
 const loadNavbar = () => {
