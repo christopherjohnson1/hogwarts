@@ -5,6 +5,7 @@ node_modules/
 dist/
 build/
 .firebase/
+settings.json
 
 # Logs
 logs
